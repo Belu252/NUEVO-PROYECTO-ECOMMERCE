@@ -9,3 +9,36 @@
     background-color: #eae4bf;
 
 }
+.mb-3{
+    background-color: #eae4bf;
+    margin: 10px;
+    
+}
+
+.btn{
+    margin: 10px;
+    background-color:#eae4bf;
+    color: black;
+}
+
+.contenedorflexible {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2 {
+ color: rgb(131, 94, 94)
+
+}
+
+.contenedor-icono {
+    color: green;
+    justify-content: left;
+    padding: 10px
+
+
+}
